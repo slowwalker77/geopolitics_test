@@ -136,13 +136,13 @@ export default function HomePage() {
               우리 스스로 주인되는 세상
             </h1>
             <p className="text-xl md:text-2xl text-white/90 leading-relaxed">
-              대한민국의 바람직한 미래를 위한 고민을 찾아서
+              대한민국의 미래를 위한 고민을 찾아서
             </p>
             <div className="space-y-4 text-lg text-white/80">
               <p>무엇을 고민할 것인가?</p>
               <p>노태우의 공약은 작전권전환과 200만호 건설이었다.</p>
               <p>정주영의 공약은 토지공개념 이었다.</p>
-              <p>그동안 우리는 무엇을 했는가? 전진했는가? 아니면 후퇴했는가?</p>
+              <p>그동안 우리는 무엇을 했는가? 전진했는가? 후퇴했는가?</p>
             </div>
             {/* <div className="pt-8">
               <Button asChild size="lg" variant="secondary">
@@ -181,7 +181,7 @@ export default function HomePage() {
               <div className="flex justify-center">
                 <Users className="h-12 w-12 text-primary" />
               </div>
-              <h3 className="text-2xl font-bold">인민의 삶</h3>
+              <h3 className="text-2xl font-bold">서민의 삶</h3>
               <p className="text-muted-foreground">
                 서민과 노동자를 위한 정치적 관점
               </p>

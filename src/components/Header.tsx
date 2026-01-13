@@ -16,7 +16,7 @@ export default function Header() {
         {/* Logo */}
         <Link href="/" className="flex items-center space-x-2">
           <div className="text-2xl font-bold text-gradient">
-            국가 민족 인민의 길
+            국가 민족 서민을 위한 길
           </div>
         </Link>
 

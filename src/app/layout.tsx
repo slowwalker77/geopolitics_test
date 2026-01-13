@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
   title: '우리 스스로 주인되는 세상',
-  description: '한국의 입장에서 본 지정학과 인민의 삶을 위한 정치',
+  description: '한국의 입장에서 본 지정학과 서민의 삶을 위한 정치',
 };
 
 export default function RootLayout({

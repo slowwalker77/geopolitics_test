@@ -12,7 +12,7 @@ export default function Footer() {
               우리 스스로 주인되는 세상
             </h3>
             <p className="text-sm text-muted-foreground">
-              한국의 입장에서 본 지정학과 인민의 삶을 위한 정치 분석
+              한국의 입장에서 본 지정학과 서민의 삶을 위한 정치 분석
             </p>
           </div>
 
