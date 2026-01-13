@@ -4,7 +4,7 @@
 
 ## 🌟 특징
 
-- **Steemit 연동**: Steemit 블록체인에서 콘텐츠를 실시간으로 가져옴
+- **블록체인 연동**: Steem 블록체인에서 콘텐츠를 실시간으로 가져와 삭제와 검열이 불가능
 - **매거진 디자인**: Fyrre Magazine 기반의 현대적이고 세련된 UI/UX
 - **다중 작가 지원**: 여러 작가의 글을 카테고리별로 분류하여 제공
 - **반응형 디자인**: 모바일, 태블릿, 데스크톱 모든 기기에서 최적화된 경험
@@ -23,7 +23,7 @@
 
 ### Backend & Data
 
-- **Steemit API** - 블록체인 기반 콘텐츠 소싱
+- **Steem API** - 블록체인 기반 콘텐츠 소싱
 - **React Hook Form + Zod** - 폼 검증
 - **DOMPurify** - XSS 방지 및 콘텐츠 새니타이징
 
@@ -45,7 +45,7 @@
 ```bash
 # 저장소 클론
 git clone [repository-url]
-cd geopoliticsTwo
+cd geopolitics_test
 
 # 의존성 설치
 npm install
